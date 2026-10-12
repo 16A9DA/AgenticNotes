@@ -677,7 +677,3 @@ Begin with conversational state and tool approval, then explore local inference 
 ### Contributing
 
 Corrections and clearer examples are welcome. When proposing a change, explain the concept being corrected and include supporting documentation where possible. Never commit API keys, credentials, or private conversation data.
-
-### Attribution and license
-
-Adapted from Rayyan Tanweer's Agentic AI learning notes. No license has been selected for this repository. Choose an appropriate license before inviting others to reuse or redistribute the material.
